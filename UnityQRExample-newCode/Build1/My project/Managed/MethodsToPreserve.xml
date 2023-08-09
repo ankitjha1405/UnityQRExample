@@ -1,0 +1,29 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="BookMove">
+			<method name="Movement"/>
+		</type>
+		<type fullname="ChestClose">
+			<method name="onClickButton"/>
+			<method name="onClickButton"/>
+			<method name="onClickButton"/>
+			<method name="onClickButton"/>
+			<method name="onClickButton"/>
+			<method name="onClickButton"/>
+		</type>
+		<type fullname="ChestOpen">
+			<method name="onClickButton"/>
+			<method name="onClickButton"/>
+		</type>
+		<type fullname="GoodChoice">
+			<method name="OnbuttonClickEvent"/>
+			<method name="OnbuttonClickEvent"/>
+			<method name="OnbuttonClickEvent"/>
+		</type>
+		<type fullname="WrongChoice">
+			<method name="buttonClickEvent"/>
+			<method name="buttonClickEvent"/>
+			<method name="buttonClickEvent"/>
+		</type>
+	</assembly>
+</linker>

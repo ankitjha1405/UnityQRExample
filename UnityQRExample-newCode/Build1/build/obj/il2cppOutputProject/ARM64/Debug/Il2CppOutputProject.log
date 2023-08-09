@@ -1,0 +1,1306 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 17.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\ARM64\link.exe
+  	Msvc Compiler Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\ARM64\cl.exe
+  
+  	Output directory: C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\build\bin\ARM64\Debug
+  	Cache directory: C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\build\obj\il2cppOutputProject\ARM64\Debug
+  pch-c.c
+  pch-cpp.cpp
+  Il2CppMetadataUsage.c
+  Il2CppCCalculateTypeValues.cpp
+  Il2CppInteropDataTable.cpp
+  GenericMethods5.cpp
+  Il2CppTypeDefinitions.c
+  Il2CppGenericMethodPointerTable.c
+  Il2CppCCalculateFieldValues1.cpp
+  mscorlib_CodeGen.c
+  Generics45.cpp
+  Il2CppCCalculateFieldValues.cpp
+  Generics24.cpp
+  Il2CppGenericInstDefinitions.c
+  Generics42.cpp
+  Generics43.cpp
+  Generics47.cpp
+  Il2CppInvokerTable.cpp
+  Generics52.cpp
+  Generics49.cpp
+  Il2CppPCCWMethods.cpp
+  Generics48.cpp
+  GenericMethods.cpp
+  GenericMethods12.cpp
+  Generics13.cpp
+  Generics25.cpp
+  Unity.TextMeshPro3.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro3.cpp(19550): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  GenericMethods2.cpp
+  Generics64.cpp
+  GenericMethods4.cpp
+  Generics26.cpp
+  Generics40.cpp
+  Generics44.cpp
+  Microsoft.MixedReality.Toolkit4.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit4.cpp(8130): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics72.cpp
+  Unity.InputSystem9.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Unity.InputSystem9.cpp(39254): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics36.cpp
+  Il2CppCCalculateTypeValues1.cpp
+  Microsoft.MixedReality.OpenXR.cpp
+  Unity.InputSystem8.cpp
+  UnityEngine.UIElementsModule2.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule2.cpp(16830): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.cpp(17400): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs122.cpp
+  Unity.InputSystem2.cpp
+  Unity.XR.OpenXR.cpp
+  GenericMethods13.cpp
+  GenericMethods10.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSystem.cpp
+  Generics1.cpp
+  Generics73.cpp
+  GenericMethods14.cpp
+  Unity.InputSystem_CodeGen.c
+  Il2CppGenericAdjustorThunkTable.c
+  GenericMethods8.cpp
+  Unity.InputSystem.cpp
+  Unity.InputSystem4.cpp
+  GenericMethods9.cpp
+  Microsoft.MixedReality.Toolkit3.cpp
+  Generics11.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Generics11.cpp(27842): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics10.cpp
+  mscorlib17.cpp
+  System.cpp
+  Generics68.cpp
+  Generics39.cpp
+  Generics14.cpp
+  Unity.InputSystem6.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Unity.InputSystem6.cpp(33302): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppGenericClassTable.c
+  Unity.InputSystem7.cpp
+  Il2CppCCWs143.cpp
+  Microsoft.MixedReality.Toolkit.SDK7.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.SDK7.cpp(33750): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule.cpp(37327): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics.cpp
+  Generics46.cpp
+  Generics74.cpp
+  Generics50.cpp
+  Unity.InputSystem5.cpp
+  Generics28.cpp
+  GenericMethods1.cpp
+  UnityEngine.UIElementsModule3.cpp
+  Generics79.cpp
+  Microsoft.MixedReality.Toolkit.SDK1.cpp
+  mscorlib16.cpp
+  UnityEngine.CoreModule.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.CoreModule.cpp(16054): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit.SDK5.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.SDK5.cpp(31912): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics35.cpp
+  Generics27.cpp
+  Generics12.cpp
+  Generics78.cpp
+  Generics34.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Generics34.cpp(15535): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  GenericMethods11.cpp
+  GenericMethods15.cpp
+  UnityEngine.UIElementsModule4.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule4.cpp(9681): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule5.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule5.cpp(31874): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule7.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule7.cpp(14718): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Unity.TextMeshPro4.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro4.cpp(19209): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs123.cpp
+  Il2CppGenericMethodTable.c
+  mscorlib9.cpp
+  UnityEngine.CoreModule1.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.CoreModule1.cpp(9987): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit.SDK6.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.SDK6.cpp(30896): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics71.cpp
+  Generics65.cpp
+  Generics77.cpp
+  mscorlib2.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\mscorlib2.cpp(27533): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit.SDK4.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.SDK4.cpp(20690): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib21.cpp
+  Microsoft.MixedReality.Toolkit.SDK2.cpp
+  Generics51.cpp
+  UnityEngine.UIElementsModule_CodeGen.c
+  Generics76.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Generics76.cpp(29566): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics2.cpp
+  Microsoft.MixedReality.Toolkit.SDK3.cpp
+  Microsoft.MixedReality.Toolkit1.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit1.cpp(25750): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics3.cpp
+  Unity.InputSystem10.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Unity.InputSystem10.cpp(29530): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs108.cpp
+  Generics7.cpp
+  Generics9.cpp
+  Generics15.cpp
+  Generics6.cpp
+  Unity.TextMeshPro5.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro5.cpp(16264): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UI.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI.cpp(19318): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib15.cpp
+  Unity.InputSystem1.cpp
+  UnityEngine.UIElementsModule1.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule1.cpp(8373): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib14.cpp
+  Generics41.cpp
+  Microsoft.MixedReality.Toolkit2.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit2.cpp(16178): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics4.cpp
+  Generics5.cpp
+  Generics29.cpp
+  mscorlib8.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\mscorlib8.cpp(12866): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit.SDK.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.SDK.cpp(29676): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib5.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\mscorlib5.cpp(8205): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib1.cpp
+  Il2CppGenericMethodDefinitions.c
+  Generics63.cpp
+  Generics69.cpp
+  Generics37.cpp
+  mscorlib6.cpp
+  GenericMethods6.cpp
+  UnityEngine.UIElementsModule11.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule11.cpp(21855): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule8.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule8.cpp(19901): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UI2.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI2.cpp(5367): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics70.cpp
+  Generics8.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Generics8.cpp(26098): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UI3.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI3.cpp(9535): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  GenericMethods16.cpp
+  Generics75.cpp
+  Generics33.cpp
+  Generics80.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Generics80.cpp(28612): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics30.cpp
+  UnresolvedVirtualCallStubs.cpp
+  UnityEngine.UIElementsModule9.cpp
+  System2.cpp
+  Unity.TextMeshPro2.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro2.cpp(25191): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib7.cpp
+  Generics38.cpp
+  UnityEngine.UI1.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI1.cpp(29715): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule6.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule6.cpp(8623): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit.SDK_CodeGen.c
+  Il2CppCCalculateFieldValues2.cpp
+  Il2CppCCWs107.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSimulation.cpp
+  Generics31.cpp
+  Generics67.cpp
+  Unity.InputSystem3.cpp
+  Generics82.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Generics82.cpp(27935): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.TextCoreTextEngineModule2.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule2.cpp(7503): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics32.cpp
+  mscorlib20.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\mscorlib20.cpp(10724): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib11.cpp
+  mscorlib13.cpp
+  UnityEngine.UIElementsModule10.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule10.cpp(24434): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib4.cpp
+  System3.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\System3.cpp(14323): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics81.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Generics81.cpp(20979): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics66.cpp
+  UnityEngine.CoreModule2.cpp
+  Generics83.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Generics83.cpp(20103): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib18.cpp
+  GenericMethods3.cpp
+  Mono.Security.cpp
+  mscorlib.cpp
+  UnityEngine.IMGUIModule.cpp
+  mscorlib3.cpp
+  Microsoft.MixedReality.Toolkit_CodeGen.c
+  Generics21.cpp
+  GenericMethods7.cpp
+  Generics18.cpp
+  Generics23.cpp
+  Generics61.cpp
+  Generics60.cpp
+  Generics53.cpp
+  Generics62.cpp
+  mscorlib10.cpp
+  Microsoft.MixedReality.Toolkit.Providers.OpenXR.cpp
+  Generics55.cpp
+  Generics20.cpp
+  Generics54.cpp
+  Generics56.cpp
+  Generics58.cpp
+  Generics57.cpp
+  Microsoft.MixedReality.Toolkit.Gltf.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Gltf.cpp(5212): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics19.cpp
+  mscorlib19.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\mscorlib19.cpp(4390): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics22.cpp
+  Generics59.cpp
+  Generics17.cpp
+  Generics16.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputAnimation.cpp
+  Unity.XR.ARFoundation.cpp
+  Microsoft.MixedReality.QR.DotNet.cpp
+  Il2CppCCWs126.cpp
+  UnityEngine.TextCoreTextEngineModule1.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule1.cpp(8155): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Unity.TextMeshPro1.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro1.cpp(7935): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Unity.TextMeshPro.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro.cpp(7820): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Unity.XR.OpenXR1.cpp
+  UnityEngine.CoreModule_CodeGen.c
+  mscorlib12.cpp
+  UnityEngine.UIElementsModule12.cpp
+  System1.cpp
+  Microsoft.MixedReality.Toolkit.Services.SceneSystem.cpp
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK.cpp
+  Il2CppCCWs141.cpp
+  Il2CppCCWs135.cpp
+  Il2CppCCWs11.cpp
+  WindowsRuntimeMetadata.cpp
+  Il2CppCCTypeValuesTable.cpp
+  Il2CppCCWs136.cpp
+  System.Numerics.cpp
+  Il2CppCCWs8.cpp
+  System.Runtime.WindowsRuntime.cpp
+  Il2CppCCWs131.cpp
+  Unity.XR.ARSubsystems.cpp
+  HardLight2D.cpp
+  Il2CppCCWs66.cpp
+  Il2CppCCWs99.cpp
+  UnityEngine.TextCoreTextEngineModule.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule.cpp(6176): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs134.cpp
+  Il2CppCCWs53.cpp
+  Il2CppCCWs121.cpp
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.cpp
+  Il2CppCCWs128.cpp
+  Il2CppCCWs133.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.SceneTransitionService.cpp
+  Il2CppCCWs127.cpp
+  Il2CppCCWs58.cpp
+  System_CodeGen.c
+  Il2CppCCWs7.cpp
+  Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.cpp
+  I18N.CJK.cpp
+  I18N.cpp
+  Il2CppCCWs137.cpp
+  UnityEngine.AndroidJNIModule.cpp
+  Il2CppCCWs52.cpp
+  Il2CppCCWs56.cpp
+  Il2CppRgctxTable.c
+  UnityEngine.UI_CodeGen.c
+  Il2CppCCWs54.cpp
+  Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.cpp(4602): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.XRModule.cpp
+  System4.cpp
+  Il2CppCCWs130.cpp
+  Il2CppCCWs57.cpp
+  Il2CppCCWs105.cpp
+  Il2CppCCWs55.cpp
+  dictionary.c
+  Il2CppCCWs41.cpp
+  Il2CppCCWs138.cpp
+  Il2CppCCWs100.cpp
+  Il2CppCCWs103.cpp
+  Unity.TextMeshPro_CodeGen.c
+  Il2CppCCWs102.cpp
+  Il2CppCCWs98.cpp
+  Il2CppCCWs6.cpp
+  Il2CppCCWs156.cpp
+  Il2CppCCWs64.cpp
+  Il2CppCCWs40.cpp
+  Il2CppCCWs39.cpp
+  Il2CppCCWs157.cpp
+  Mono.Security1.cpp
+  System.Core.cpp
+  UnityEngine.UnityWebRequestModule.cpp
+  Il2CppCCWs129.cpp
+  Il2CppCCWs104.cpp
+  Il2CppCCWs150.cpp
+  char-conversions.cpp
+  Il2CppCCWs.cpp
+  mscorlib22.cpp
+  Il2CppCCWs38.cpp
+  Microsoft.MixedReality.Toolkit5.cpp
+  Il2CppCCWs140.cpp
+  Il2CppCCWs37.cpp
+  UnityEngine.TextCoreTextEngineModule3.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule3.cpp(6013): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs142.cpp
+  Il2CppCCFieldValuesTable.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSystem1.cpp
+  Il2CppCCWs63.cpp
+  Il2CppCCWs101.cpp
+  Il2CppCCWs132.cpp
+  Il2CppCCWs106.cpp
+  Il2CppCCWs5.cpp
+  Il2CppCCWs119.cpp
+  Il2CppCCWs120.cpp
+  Assembly-CSharp.cpp
+  Unity.InputSystem11.cpp
+  UnityEngine.UIElementsNativeModule.cpp
+  Il2CppCCWs109.cpp
+  Il2CppCCWs118.cpp
+  Il2CppCCWs117.cpp
+  Il2CppCCWs10.cpp
+  Il2CppCCWs9.cpp
+  Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.cpp
+  Il2CppCCWs65.cpp
+  Microsoft.MixedReality.SampleQRCodes.cpp
+  Il2CppCCWs152.cpp
+  Il2CppCCWs148.cpp
+  Il2CppCCWs155.cpp
+  Il2CppCCWs62.cpp
+  Il2CppCCWs47.cpp
+  Il2CppCCWs146.cpp
+  Il2CppCCWs42.cpp
+  I18N.Rare2.cpp
+  I18N.Rare.cpp
+  I18N.Rare1.cpp
+  Il2CppCCWs115.cpp
+  Il2CppCCWs145.cpp
+  Il2CppCCWs45.cpp
+  Il2CppCCWs144.cpp
+  Il2CppCCWs67.cpp
+  I18N.West.cpp
+  I18N.Rare4.cpp
+  Unity.XR.OpenXR_CodeGen.c
+  Il2CppCCWs43.cpp
+  Il2CppCCWs48.cpp
+  I18N.Rare3.cpp
+  Il2CppCCWs46.cpp
+  Il2CppCCWs116.cpp
+  Il2CppCCWs44.cpp
+  Il2CppCCWs49.cpp
+  I18N.Other.cpp
+  Il2CppCCWs153.cpp
+  UnityEngine.TextCoreFontEngineModule.cpp
+  Microsoft.MixedReality.OpenXR_CodeGen.c
+  Il2CppCCWs125.cpp
+  UnityEngine.PhysicsModule.cpp
+  Il2CppCCWs61.cpp
+  Il2CppCCWs2.cpp
+  I18N.West1.cpp
+  Il2CppCCWs3.cpp
+  UnityEngine.UIModule.cpp
+  Il2CppCCWs124.cpp
+  UnityEngine.AnimationModule.cpp
+  Unity.TextMeshPro6.cpp
+  Il2CppCCWs139.cpp
+  Il2CppCCWs4.cpp
+  I18N.MidEast.cpp
+  Il2CppCCWs154.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSystem_CodeGen.c
+  UnityEngine.Physics2DModule.cpp
+  UnityEngine.TerrainModule.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TerrainModule.cpp(3623): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs110.cpp
+  Il2CppCCWs112.cpp
+  Il2CppCCWs149.cpp
+  Il2CppCCWs114.cpp
+  Unity.XR.Management.cpp
+  Il2CppCCWs97.cpp
+  UnityEngine.TextRenderingModule.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextRenderingModule.cpp(2746): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  System.Core_CodeGen.c
+  UnityEngine.InputLegacyModule.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.InputLegacyModule.cpp(2142): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit.Async.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.HandPhysics.cpp
+  Il2CppCCWs68.cpp
+  Il2CppCCWs111.cpp
+  Il2CppCCWs113.cpp
+  Il2CppCCWs69.cpp
+  UnityEngine.AudioModule.cpp
+  UnityEngine.SubsystemsModule.cpp
+  Microsoft.MixedReality.Toolkit.Services.TeleportSystem.cpp
+  Microsoft.MixedReality.Toolkit.Services.CameraSystem.cpp
+  Microsoft.MixedReality.Toolkit.Providers.WindowsSceneUnderstanding.cpp
+  Il2CppCCWs151.cpp
+  Il2CppCCWs1.cpp
+  Il2CppCCWs87.cpp
+  Unity.XR.OpenXR.Features.MockRuntime.cpp
+  WindowsRuntimeMetadata_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.cpp
+  UnityEngine.ParticleSystemModule.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.Tracking.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSimulation_CodeGen.c
+  UnityEngine.SpatialTracking.cpp
+  UnityEngine.IMGUIModule_CodeGen.c
+  Il2CppCCWs80.cpp
+  Il2CppCCWs84.cpp
+  Il2CppCCWs71.cpp
+  Il2CppCCWs72.cpp
+  Il2CppCCWs76.cpp
+  Il2CppCCWs91.cpp
+  Il2CppCCWs77.cpp
+  UnityEngine.TextCoreTextEngineModule_CodeGen.c
+  Il2CppGenericComDefinitions.cpp
+  Il2CppCCWs83.cpp
+  System.Runtime.WindowsRuntime_CodeGen.c
+  Il2CppCCWs70.cpp
+  Il2CppCCWs89.cpp
+  Il2CppCCWs81.cpp
+  Il2CppCCWs86.cpp
+  UnityEngine.SharedInternalsModule.cpp
+  Il2CppCCWs90.cpp
+  Il2CppCCWs79.cpp
+  Unity.XR.ARSubsystems_CodeGen.c
+  Il2CppCCWs88.cpp
+  UnityEngine.TilemapModule.cpp
+  Il2CppCCWs59.cpp
+  Il2CppCCWs94.cpp
+  Il2CppCCWs92.cpp
+  Unity.XR.ARFoundation_CodeGen.c
+  Il2CppCCWs85.cpp
+  Il2CppCCWs95.cpp
+  Il2CppCCWs82.cpp
+  Mono.Security_CodeGen.c
+  Microsoft.MixedReality.QR.DotNet_CodeGen.c
+  dictionary_hash.c
+  Il2CppCCWs78.cpp
+  Il2CppCCWs74.cpp
+  Il2CppCCWs75.cpp
+  Il2CppCCWs93.cpp
+  Il2CppCCWs73.cpp
+  Il2CppCCWs96.cpp
+  decode.c
+  __Generated.cpp
+  I18N.Rare5.cpp
+  UnityEngine.VFXModule.cpp
+  deflate.c
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\external\zlib\deflate.c(1915): warning C4244: '=': conversion from 'ush' to 'uchf', possible loss of data
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\external\zlib\deflate.c(2040): warning C4244: '=': conversion from 'ush' to 'uchf', possible loss of data
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\external\zlib\deflate.c(2150): warning C4244: '=': conversion from 'ush' to 'uchf', possible loss of data
+  UnityEngine.UnityAnalyticsModule.cpp
+  UnityEngine.UIElementsNativeModule_CodeGen.c
+  Il2CppCCWs60.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputAnimation_CodeGen.c
+  __Generated_CodeGen.c
+  Il2CppCCWs51.cpp
+  UnityEngine.XRModule_CodeGen.c
+  I18N.Rare_CodeGen.c
+  Il2CppCCWs147.cpp
+  encode.c
+  Il2CppCCWs27.cpp
+  UnityEngine.AndroidJNIModule_CodeGen.c
+  Il2CppCCWs17.cpp
+  Il2CppCCWs33.cpp
+  UnityEngine.VideoModule.cpp
+  Il2CppCCWs18.cpp
+  Il2CppCCWs26.cpp
+  Il2CppCCWs50.cpp
+  inflate.c
+  Microsoft.MixedReality.Toolkit.Services.SceneSystem_CodeGen.c
+  I18N.CJK_CodeGen.c
+  Unity.XR.OpenXR.Features.ConformanceAutomation.cpp
+  Microsoft.MixedReality.Toolkit.Providers.OpenXR_CodeGen.c
+  Il2CppCCWs23.cpp
+  UnityEngine.TextCoreFontEngineModule_CodeGen.c
+  brotli_bit_stream.c
+  Il2CppCCWs19.cpp
+  Il2CppCCWs28.cpp
+  UnityEngine.PhysicsModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Gltf_CodeGen.c
+  UnityEngine.InputModule.cpp
+  Il2CppCCWs12.cpp
+  trees.c
+  Il2CppCCWs16.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.SceneTransitionService_CodeGen.c
+  Il2CppCCWs36.cpp
+  Il2CppCCWs31.cpp
+  Il2CppCCWs13.cpp
+  Il2CppCCWs30.cpp
+  Il2CppCCWs35.cpp
+  Il2CppCCWs24.cpp
+  Il2CppCCWs15.cpp
+  Il2CppCCWs29.cpp
+  Il2CppCCWs22.cpp
+  Il2CppCCWs32.cpp
+  Il2CppCCWs14.cpp
+  Il2CppCCWs21.cpp
+  UnityEngine.SubsystemsModule_CodeGen.c
+  Il2CppCCWs34.cpp
+  Il2CppCCWs25.cpp
+  Il2CppCCWs20.cpp
+  il2cpp-mono-api.cpp
+  System.Numerics_CodeGen.c
+  UnityEngine.UnityWebRequestModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality_CodeGen.c
+  Unity.XR.OpenXR.Features.RuntimeDebugger.cpp
+  Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem_CodeGen.c
+  UnityEngine.AnimationModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared_CodeGen.c
+  UnityEngine.UIModule_CodeGen.c
+  compress_fragment.c
+  xamarin_getifaddrs.c
+  crc32.c
+  backward_references_hq.c
+  UnityEngine.JSONSerializeModule.cpp
+  System.Configuration.cpp
+  I18N_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.WindowsSceneUnderstanding_CodeGen.c
+  UnityEngine.Physics2DModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK_CodeGen.c
+  Unity.XR.Management_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Async_CodeGen.c
+  UnityEngine.ParticleSystemModule_CodeGen.c
+  HardLight2D_CodeGen.c
+  I18N.West_CodeGen.c
+  UnityEngine.AssetBundleModule.cpp
+  compress_fragment_two_pass.c
+  infback.c
+  Microsoft.MixedReality.SampleQRCodes_CodeGen.c
+  Assembly-CSharp_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput_CodeGen.c
+  metablock.c
+  I18N.Other_CodeGen.c
+  gzwrite.c
+  UnityEngine.InputLegacyModule_CodeGen.c
+  il2cpp-api.cpp
+  gzread.c
+  UnityEngine.SharedInternalsModule_CodeGen.c
+  UnityEngine.AudioModule_CodeGen.c
+  UnityEngine.TextRenderingModule_CodeGen.c
+  Unity.XR.OpenXR.Features.MockRuntime_CodeGen.c
+  Il2CppCodeRegistration.cpp
+  gzlib.c
+  UnityEngine.AIModule.cpp
+  static_dict.c
+  System.Runtime.WindowsRuntime.UI.Xaml.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.HandPhysics_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem_CodeGen.c
+  entropy_encode.c
+  UnityEngine.TilemapModule_CodeGen.c
+  inftrees.c
+  UnityEngine.TerrainModule_CodeGen.c
+  inffast.c
+  UnityEngine.VRModule.cpp
+  Unity.XR.OpenXR.Features.MetaQuestSupport.cpp
+  I18N.MidEast_CodeGen.c
+  UnityEngine.SpatialTracking_CodeGen.c
+  huffman.c
+  UnityEngine.DirectorModule.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.Tracking_CodeGen.c
+  Microsoft.MixedReality.Toolkit.SDK8.cpp
+  Microsoft.MixedReality.Toolkit.Services.TeleportSystem_CodeGen.c
+  Il2CppReversePInvokeWrapperTable.cpp
+  UnityEngine.VFXModule_CodeGen.c
+  Unity.XR.OpenXR.Features.ConformanceAutomation_CodeGen.c
+  zutil.c
+  UnityEngine.ImageConversionModule.cpp
+  UnityEngine.VideoModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.CameraSystem_CodeGen.c
+  Unity.XR.OpenXR.Features.OculusQuestSupport.cpp
+  UnityEngine.UnityAnalyticsModule_CodeGen.c
+  UnityEngine.InputModule_CodeGen.c
+  System.Configuration_CodeGen.c
+  literal_cost.c
+  block_splitter.c
+  adler32.c
+  memory.c
+  UnityEngine.IMGUIModule1.cpp
+  Unity.XR.OpenXR.Features.RuntimeDebugger_CodeGen.c
+  state.c
+  backward_references.c
+  System.Xml.cpp
+  UnityEngine.GridModule.cpp
+  uncompr.c
+  histogram.c
+  UnityEngine.SpriteShapeModule.cpp
+  UnityEngine.JSONSerializeModule_CodeGen.c
+  System.Runtime.WindowsRuntime.UI.Xaml_CodeGen.c
+  utf8_util.c
+  UnityAdsStubs.cpp
+  Lump_libil2cpp_icalls.cpp
+  UnityEngine.DirectorModule_CodeGen.c
+  cluster.c
+  krait_signal_handler.c
+  UnityEngine.VRModule_CodeGen.c
+  Lump_libil2cpp_utils.cpp
+  bit_reader.c
+  UnityEngine.AIModule_CodeGen.c
+  UnityEngine.ImageConversionModule_CodeGen.c
+  Il2CppMetadataRegistration.c
+  Unity.XR.OpenXR.Features.OculusQuestSupport_CodeGen.c
+  Lump_libil2cpp_metadata.cpp
+  Unity.XR.OpenXR.Features.MetaQuestSupport_CodeGen.c
+  gc.c
+  Lump_libil2cpp_vm-utils.cpp
+  bit_cost.c
+  UnityEngine.GridModule_CodeGen.c
+  System.Xml_CodeGen.c
+  netstandard.cpp
+  System.Collections.cpp
+  System.Numerics.Vectors.cpp
+  System.IO.Compression.cpp
+  System.ObjectModel.cpp
+  System.Reflection.cpp
+  System.Runtime.cpp
+  System.Runtime.Handles.cpp
+  System.Runtime.InteropServices.cpp
+  System.Runtime.InteropServices.WindowsRuntime.cpp
+  System.Threading.Tasks.cpp
+  System.Threading.cpp
+  UnityEngine.cpp
+  il2cpp-benchmark-support.cpp
+  System.Runtime.InteropServices.WindowsRuntime_CodeGen.c
+  gzclose.c
+  System.Runtime.InteropServices_CodeGen.c
+  UnityEngine.AssetBundleModule_CodeGen.c
+  UnityEngine.SpriteShapeModule_CodeGen.c
+  System.Numerics.Vectors_CodeGen.c
+  Lump_libil2cpp_gc.cpp
+  System.Threading.Tasks_CodeGen.c
+  System.IO.Compression_CodeGen.c
+  System.Runtime.Handles_CodeGen.c
+  System.Collections_CodeGen.c
+  System.ObjectModel_CodeGen.c
+  System.Reflection_CodeGen.c
+  System.Runtime_CodeGen.c
+  System.Threading_CodeGen.c
+  netstandard_CodeGen.c
+  UnityEngine_CodeGen.c
+  Lump_libil2cpp_debugger.cpp
+  Lump_libil2cpp_mono.cpp
+  Lump_libil2cpp_codegen.cpp
+  il2cpp-runtime-stats.cpp
+  Lump_libil2cpp_os.cpp
+EXEC : error : Unity.IL2CPP.Building.BuilderFailedException: Lump_libil2cpp_vm.cpp
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\utils/Il2CppHashMap.h(71): error C2039: 'hash_compare': is not a member of 'stdext'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iterator(1455): note: see declaration of 'stdext'
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\utils/Il2CppHashMap.h(71): error C2065: 'hash_compare': undeclared identifier
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\utils/Il2CppHashMap.h(71): error C2275: 'Key': expected an expression instead of a type
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(38): error C2976: 'Il2CppReaderWriterLockedHashMap': too few template arguments
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\utils/Il2CppHashMap.h(75): note: see declaration of 'Il2CppReaderWriterLockedHashMap'
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(385): error C2662: 'bool Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>::TryGet(const Il2CppHashMap<Key,T,HashFcn,EqualKey,Alloc>::key_type &,T *)': cannot convert 'this' pointer from 'PointerTypeMap' to 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc> &'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(385): note: Reason: cannot convert from 'PointerTypeMap' to 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(385): note: Conversion requires a second user-defined-conversion operator or constructor
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\utils/Il2CppHashMap.h(90): note: see declaration of 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>::TryGet'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(385): note: while trying to match the argument list '(Il2CppClass *, Il2CppClass **)'
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(438): error C2662: 'bool Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>::Add(const Il2CppHashMap<Key,T,HashFcn,EqualKey,Alloc>::key_type &,const T &)': cannot convert 'this' pointer from 'PointerTypeMap' to 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc> &'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(438): note: Reason: cannot convert from 'PointerTypeMap' to 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(438): note: Conversion requires a second user-defined-conversion operator or constructor
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\utils/Il2CppHashMap.h(102): note: see declaration of 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>::Add'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(438): note: while trying to match the argument list '(Il2CppClass *, Il2CppClass *)'
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(1135): error C2955: 'Il2CppReaderWriterLockedHashMap': use of class template requires template argument list
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\utils/Il2CppHashMap.h(75): note: see declaration of 'Il2CppReaderWriterLockedHashMap'
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(1135): error C2662: 'Il2CppHashMap<Key,T,HashFcn,EqualKey,Alloc>::iterator Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>::UnlockedBegin(void)': cannot convert 'this' pointer from 'PointerTypeMap' to 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc> &'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(1135): note: Reason: cannot convert from 'PointerTypeMap' to 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(1135): note: Conversion requires a second user-defined-conversion operator or constructor
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\utils/Il2CppHashMap.h(121): note: see declaration of 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>::UnlockedBegin'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(1135): note: while trying to match the argument list '()'
+C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(1135): error C2662: 'Il2CppHashMap<Key,T,HashFcn,EqualKey,Alloc>::iterator Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>::UnlockedEnd(void)': cannot convert 'this' pointer from 'PointerTypeMap' to 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc> &'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(1135): note: Reason: cannot convert from 'PointerTypeMap' to 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(1135): note: Conversion requires a second user-defined-conversion operator or constructor
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\utils/Il2CppHashMap.h(127): note: see declaration of 'Il2CppReaderWriterLockedHashMap<Key,T,HashFcn,EqualKey,Alloc>::UnlockedEnd'
+  C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\vm\MetadataCache.cpp(1135): note: while trying to match the argument list '()'
+  
+  Invocation was: Executable: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\ARM64\cl.exe"
+  Arguments: "C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\Source\lumpedcpp\Lump_libil2cpp_vm.cpp" /nologo /c /bigobj /W3 /Z7 /EHs /GR- /Gy /utf-8 /wd4102 /wd4800 /wd4056 /wd4190 /wd4723 /wd4467 /wd4503 /wd4996 /wd4200 /wd4834 /wd4722 /Od /Zc:inline /RTC1 /MDd -d2ssa-cfg-jt- /DWINDOWS_UWP /DUNITY_UWP /DUNITY_WSA_10_0 /DUNITY_WSA /DUNITY_WINRT /DPLATFORM_WINRT /DNET_4_0 /DUNITY_AOT /DIL2CPP_MONO_DEBUGGER_DISABLED /DGC_NOT_DLL /DRUNTIME_IL2CPP /DIL2CPP_ENABLE_WRITE_BARRIERS=1 /DIL2CPP_INCREMENTAL_TIME_SLICE=3 /DIL2CPP_DEBUG=1 /DBASELIB_INLINE_NAMESPACE=il2cpp_baselib /DIL2CPP_DEFAULT_DATA_DIR_PATH=Data/il2cpp_data /DBASELIB_USE_DYNAMICLIBRARY=1 /D_WIN32 /DWIN32 /DWIN32_THREADS /D_WINDOWS /DWINDOWS /D_UNICODE /DUNICODE /D_CRT_SECURE_NO_WARNINGS /D_SCL_SECURE_NO_WARNINGS /D_WINSOCK_DEPRECATED_NO_WARNINGS /DNOMINMAX /D_DEBUG /DDEBUG /DIL2CPP_DEBUG=1 /DWINDOWS_SDK_BUILD_VERSION=22621 /D__WRL_NO_DEFAULT_LIB__ /DWINAPI_FAMILY=WINAPI_FAMILY_APP /I"C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp" /I"C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp" /I"C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\external\bdwgc\include" /I"C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\external\xxHash" /I"C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\external\baselib\Include" /I"C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\external\baselib\Platforms\UniversalWindows\Include" /I"C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\IL2CPP\libil2cpp\pch" /I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include" /I"C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared" /I"C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um" /I"C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt" /I"C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt" /Fo"C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\build\obj\il2cppOutputProject\ARM64\Debug\libil2cpp\6EF15BD64AA5D014974B238D6CDD316E.obj" /Fd"C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\build\obj\il2cppOutputProject\ARM64\Debug\libil2cpp\6EF15BD64AA5D014974B238D6CDD316E.pdb"
+  EnvArg key: PATH value: C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64;C:\Program Files (x86)\Windows Kits\10\bin\x64;C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64
+  
+     at Unity.IL2CPP.Building.CppProgramBuilder.BuildAllCppFiles(IEnumerable`1 sourceFilesToCompile, IBuildStatisticsCollector statisticsCollector)
+     at Unity.IL2CPP.Building.CppProgramBuilder.Build(IBuildStatistics& statistics)
+     at il2cpp.Compilation.CompilationDriver.Run(RuntimePlatform platform, Il2CppCommandLineArguments il2CppCommandLineArguments, BuildingOptions buildingOptions, ReadOnlyCollection`1 matchedAssemblyMethodSourceFiles)
+     at il2cpp.Program.DoRun(String[] args, RuntimePlatform platform, Il2CppCommandLineArguments il2CppCommandLineArguments, BuildingOptions buildingOptions, Boolean throwExceptions)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\\IL2CPP\build\deploy\il2cpp.exe" --libil2cpp-static --compile-cpp -architecture=ARM64 -configuration=Debug -platform=winrt -outputpath="C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\\build\bin\ARM64\Debug\GameAssembly.dll" --data-folder="C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\\build\bin\ARM64\Debug\\" -cachedirectory="C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\\build\obj\il2cppOutputProject\ARM64\Debug\\" -generatedcppdir="C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\Il2CppOutputProject\\Source"  --incremental-g-c-time-slice=3 --baselib-directory="C:\Program Files\Unity\Hub\Editor\2021.3.9f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Debug" --avoid-dynamic-library-copy --dont-deploy-baselib --profiler-report --additional-defines=WINDOWS_UWP --additional-defines=UNITY_UWP --additional-defines=UNITY_WSA_10_0 --additional-defines=UNITY_WSA --additional-defines=UNITY_WINRT --additional-defines=PLATFORM_WINRT -dotnetprofile=unityaot-win32 -verbose --relative-data-path=Data/il2cpp_data --compiler-flags="-d2ssa-cfg-jt-"" exited with code 4.

@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\ankit\Downloads\UnityQRExample-main\UnityQRExample-main\Build1\build\bin\ARM64\Debug\GameAssembly.lib'
